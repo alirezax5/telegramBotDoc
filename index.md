@@ -2,4 +2,6 @@
 
 Available languages:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [فارسی](https://alirezax5.github.io/telegramBotDoc/fa)
+
+- [english](https://alirezax5.github.io/telegramBotDoc/en)
